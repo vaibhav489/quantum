@@ -35,15 +35,15 @@ function Login() {
                                 <rect x="14" y="1" width="7" height="6"></rect>
                                 <rect x="14" y="11" width="7" height="12"></rect>
                             </svg>
-                            <span class="ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase">Prabhat</span>
+                            <span class="ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase">Quantum IT innovation</span>
                         </Link>
 
                         <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-                            Welcome to Prabhat 🦑
+                            Welcome to Quantum IT innovation 🦑
                         </h2>
 
                         <p className="mt-4 leading-relaxed text-white/90">
-                            Create your account and join Prabhat!
+                            Create your account and join Quantum IT innovation!
                             Whether you're a traveler or a host, signing up gives you access to book unique stays or list your property. Just enter your details, verify your email, and you're all set to explore or host.
                         </p>
                     </div>
